@@ -1,0 +1,13 @@
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.exe
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.deps.json
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.runtimeconfig.json
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.runtimeconfig.dev.json
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.dll
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.pdb
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.csprojAssemblyReference.cache
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.AssemblyInfoInputs.cache
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.AssemblyInfo.cs
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.csproj.CoreCompileInputs.cache
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.dll
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.pdb
+D:\Repos\OOP-AND-SOLID-IN-CSHARP\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.genruntimeconfig.cache
