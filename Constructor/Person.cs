@@ -7,11 +7,11 @@ namespace Constructor
         public int Age;
         public string Gender;
 
-        public Person()
+        public Person(string firstName, int age, string gender)
         {
-            FirstName = "Allan";
-            Age = 24;
-            Gender = "Male";
+            FirstName = firstName;
+            Age = age;
+            Gender = gender;
         }
 
         public void Introduce ()
