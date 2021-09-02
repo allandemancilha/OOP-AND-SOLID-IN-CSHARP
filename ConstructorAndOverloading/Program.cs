@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Constructor
+namespace ConstructorAndOverloading
 {
     class Program
     {
