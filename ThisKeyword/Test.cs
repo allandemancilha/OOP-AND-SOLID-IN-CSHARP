@@ -4,11 +4,9 @@ namespace ThisKeyword
     {
         public string Name { get; set; }
 
-        public Test()
+        public Test(Example example)
         {
-            
-        }
-        
-        
+            this.Name = example.Name;           
+        }      
     }
 }
