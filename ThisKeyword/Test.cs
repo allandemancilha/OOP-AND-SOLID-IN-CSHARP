@@ -6,6 +6,7 @@ namespace ThisKeyword
 
         public Test(Example example)
         {
+            // USA O NOME DA INSTÂNCIA Example.
             this.Name = example.Name;           
         }      
     }

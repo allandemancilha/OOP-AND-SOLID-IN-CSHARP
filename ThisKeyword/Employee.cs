@@ -8,7 +8,7 @@ namespace ThisKeyword
         public Employee(string FirstName, string Email)
         {
             /* A PALAVRA-CHAVE this REPRESENTA UMA INSTÂNCIA DA CLASSE
-            E DE SEUS USOS É EVITAR AMBIGUIDADES ENTRE OS NOMES DAS   
+            E UM DE SEUS USOS É EVITAR AMBIGUIDADES ENTRE OS NOMES DAS   
             PROPRIEDADES DA CLASSE E DOS PARÂMETROS.     
             */
             
